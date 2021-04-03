@@ -50,7 +50,7 @@ Is it easy to change the layout display?
 * The layouts are easily accessible and they satisfy the needs of the users.
 * Template management information is [available here](https://docs.joomla.org/Special:MyLanguage/Portal:Template_Management).
 
-Are u Ready to install Joomla?
+Are you Ready to install Joomla?
 ---------------------
 * Check the [minimum requirements](https://downloads.joomla.org/technical-requirements). 
 * How do you [install Joomla](https://docs.joomla.org/Special:MyLanguage/J3.x:Installing_Joomla)?

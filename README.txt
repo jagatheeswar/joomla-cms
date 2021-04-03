@@ -34,7 +34,7 @@
 	* There are a lot of ready-made professional templates that you can download.
 	* Check out the template management information: https://docs.joomla.org/Special:MyLanguage/Portal:Template_Management
 
-8- Ready to install Joomla?
+8- Are you Ready to install Joomla?
 	* Check the minimum requirements here: https://downloads.joomla.org/technical-requirements
 	* How do you install Joomla - https://docs.joomla.org/Special:MyLanguage/J3.x:Installing_Joomla
 	* You could start your Joomla! experience building your site on a local test server.
